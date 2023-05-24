@@ -9,10 +9,6 @@ Try Mockthis on https://mockthis.app.
 
 Thank you for your support and I look forward to your feedback!
 <br>
-<div align="center">
-  /home/donut/Downloads/Screen_Shot_2023-05-24_at_01.08.50.png![image](https://github.com/MisterDonnuts/mockthis_public/assets/65628223/afe9b5a3-6ec5-4de7-ac78-ed4ed1462892)
-
-</div>
 
 ## 📖 How to use:
 
