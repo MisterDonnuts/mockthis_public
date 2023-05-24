@@ -59,7 +59,3 @@ Contributions to MockThis are welcome and encouraged! To contribute just:
 1. Fork the repository
 2. Make your changes in a new branch and push them to your fork
 3. Submit a Pull Request!
-
-## 📜 License
-
-MockThis is under the MIT [License](LICENSE).
